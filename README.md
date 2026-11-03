@@ -10,6 +10,16 @@ Radar brings catalog listings, observed stock, supplier comparisons, advertising
 
 *Original application capture, October 7, 2026. The Spanish interface and catalog figures reflect that date. [Capture details](SCREENSHOTS.md).*
 
+## Inside the application
+
+### Advertising library
+
+![Advertising library](assets/ads-library-2026-10-07.png)
+
+Archived application-library viewport, October 7, 2026; native Spanish/dark interface. Catalog counters are historical observations, not current inventory or commercial performance.
+
+[Capture provenance](SCREENSHOTS.md)
+
 ## My contribution
 
 I develop the catalog-research interface, supplier workflows, matching review, persistent investigations and cash-on-delivery analysis. The surrounding system includes catalog collection and an assistant connector.
