@@ -6,9 +6,9 @@
 
 Radar connects product catalogs, suppliers, advertising observations, and cash-on-delivery economics in a research workspace. It helps turn scattered information into a product hypothesis that can be reviewed and tested.
 
-![Radar internal research workspace with a light theme and English portfolio labels](assets/workspace-light-en.png)
+![Original Radar internal workspace screenshot recorded October 7, 2026](assets/workspace-original-2026-10-07.png)
 
-*Internal workspace using Radar’s light theme and an isolated synthetic-data fixture. UI labels were translated locally into English for this portfolio; no shipped English-language support is implied. [Capture details](SCREENSHOTS.md).*
+*Original application screenshot recorded October 7, 2026. Native dark theme and Spanish interface; visible catalog figures belong to that historical capture. [Capture details](SCREENSHOTS.md).*
 
 ## The workflow
 
