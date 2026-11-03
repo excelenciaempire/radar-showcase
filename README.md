@@ -17,6 +17,10 @@ Radar connects product catalogs, suppliers, advertising observations, and cash-o
 3. Compare relevant advertising evidence and offer context.
 4. Examine unit economics and record the next hypothesis to test.
 
+## How I build with AI
+
+**All of my development work presented here was done with AI assistance.** I use AI throughout implementation, debugging and validation. I understand programming and software engineering fundamentals, and use them to define requirements, guide the tools, review changes and check how the software actually behaves. I take responsibility for technical decisions and results.
+
 ## My work
 
 I develop the product research experience, catalog and supplier workflows, evidence handling, and decision-support tools. A core concern is making the limits of the data visible where a user makes a decision.
