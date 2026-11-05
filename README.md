@@ -2,7 +2,7 @@
 
 **Catalog and supplier research for cash-on-delivery ecommerce.**
 
-[System map](SYSTEM.md) · [Engineering](ENGINEERING.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
+[Feature tour](FEATURES.md) · [System map](SYSTEM.md) · [Engineering](ENGINEERING.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
 
 Radar combines catalog collection, product/supplier research and read-only assistant access in one product. Its workspace brings listings, dated stock observations, advertising references and cash-on-delivery assumptions together.
 
@@ -12,13 +12,23 @@ Radar combines catalog collection, product/supplier research and read-only assis
 
 ## Inside the application
 
-### Advertising library
+### Offer and supplier evidence
 
-![Advertising library](assets/ads-library-2026-10-07.png)
+Keep competitor offers, supplier candidates and decision sections in the same investigation.
 
-Archived application-library viewport, October 7, 2026; native Spanish/dark interface. Catalog counters are historical observations, not current inventory or commercial performance.
+![Offer and supplier evidence](assets/offer-comparison-2026-10-07.png)
 
-[Capture provenance](SCREENSHOTS.md)
+*October 7, 2026 application QA; Spanish/dark. The visible offer section has no normalized price yet.*
+
+### COD economics and test planning
+
+Review the economics/evidence stage and define a test once the required conditions are known.
+
+<img src="assets/economics-test-2026-10-07.png" alt="COD economics and test planning" width="360">
+
+*October 7, 2026 application QA; Spanish/dark. The investigation is pending and has zero connected experiment results.*
+
+[Explore all five views, including the ad library and mobile investigation](FEATURES.md).
 
 ## My contribution
 
@@ -32,4 +42,4 @@ Similar titles can describe different variants or bundles. Radar treats supplier
 
 **All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, test behavior and take responsibility for technical decisions.
 
-This case contains documentation and a historical application screenshot. Source, databases and private research stay private. It publishes no matching-accuracy or commercial-performance metrics.
+This case contains documentation and archived application captures. Source, databases and private research stay private. It publishes no matching-accuracy or commercial-performance metrics.
