@@ -1,0 +1,178 @@
+[
+  {
+    "file": "assets/raptor-landing-2026-11-07.png",
+    "title": "Public landing",
+    "captured_at_utc": "2026-11-08T03:58:34Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "d85b54208a210c66d5793a86f6cf261d9d05ded7f915e52832a4dbf434e4a1c3",
+    "original_pixels": true,
+    "context": "Public entry point with the new headline; native Spanish/light."
+  },
+  {
+    "file": "assets/raptor-landing-mobile-2026-11-07.png",
+    "title": "Mobile landing",
+    "captured_at_utc": "2026-11-08T03:58:38Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "196f71757f32ab659fe726dfe62176bf898a61c1a71476a0de5ef3d7724d40d9",
+    "original_pixels": true,
+    "context": "Same production landing at 390 px; native Spanish/light."
+  },
+  {
+    "file": "assets/raptor-workspace-2026-11-07.png",
+    "title": "Product workspace",
+    "captured_at_utc": "2026-11-08T03:59:15Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "a6d4c6ebfdb2f6ff1ec7c710e2fd0a916a0f295cef7c412c307ffe144731312a",
+    "original_pixels": true,
+    "context": "Existing saved pet-brush investigation. The header retains a filtered catalog count, separate from the full library total."
+  },
+  {
+    "file": "assets/raptor-catalog-reviewed-2026-11-07.png",
+    "title": "Product catalog",
+    "captured_at_utc": "2026-11-08T04:02:51Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "cf5856e883656e60b24762cc3630c08a96512fb855679c3067eaf8d0f425c3ec",
+    "original_pixels": true,
+    "context": "Native Cabello category filter, 9,398 observed listings. Several original thumbnails are unavailable; they are not replaced. Stock is explicitly marked as lacking a recent observation."
+  },
+  {
+    "file": "assets/raptor-category-picker-2026-11-07.png",
+    "title": "Category navigation",
+    "captured_at_utc": "2026-11-08T04:02:54Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "98a5ee5fdb87f51050d6facb20fc0f2d290e7da9059c54531c75b8721ffbda13",
+    "original_pixels": true,
+    "context": "Native category picker open over the same filtered catalog; counts reflect the captured classification snapshot."
+  },
+  {
+    "file": "assets/raptor-investigation-2026-11-07.png",
+    "title": "Saved investigation",
+    "captured_at_utc": "2026-11-08T04:04:29Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "2cd4e6f64c540209c344156c4116e51c7ac6148cd4446c652fca9a148012d202",
+    "original_pixels": true,
+    "context": "The existing pet-brush record, saved September 28, rendered in the current interface. Identity validation and complete economics are still pending; the evidence retains its original dates."
+  },
+  {
+    "file": "assets/raptor-investigation-mobile-2026-11-07.png",
+    "title": "Mobile investigation",
+    "captured_at_utc": "2026-11-08T04:04:32Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "fa667d71865dcc5cbfcf38b6bb0200ab69303f784c686cbfe020a5a89062a993",
+    "original_pixels": true,
+    "context": "Same saved investigation at 390 px; no new research or test results were created."
+  },
+  {
+    "file": "assets/raptor-ad-evidence-2026-11-07.png",
+    "title": "Competitive research",
+    "captured_at_utc": "2026-11-08T04:06:26Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "ea852205ef145d43a2e54c17d29e35c0552cbc2fc45715b1f0c9f09748d505de",
+    "original_pixels": true,
+    "context": "Read-only pet-brush overview with historical advertising activity and observed landing-page references. Automatic opportunity text is a research hypothesis, not verified product efficacy or sales."
+  },
+  {
+    "file": "assets/raptor-ad-cards-2026-11-07.png",
+    "title": "Landing-page evidence",
+    "captured_at_utc": "2026-11-08T04:06:51Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "90d395c798c4ed4569f64442acda24cd6c3e87159096ea3dec0f59cf7db53f94",
+    "original_pixels": true,
+    "context": "Observed public offers, source links and capture dates in the product advertising workspace. Missing prices remain unidentified; advertised claims are not validated by this screenshot."
+  },
+  {
+    "file": "assets/raptor-economics-2026-11-07.png",
+    "title": "COD calculator",
+    "captured_at_utc": "2026-11-08T04:01:46Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "7d1f936e6bca9a0f531120ce2e1df8b0bab0d41ce268d17236ef0f930a4e454a",
+    "original_pixels": true,
+    "context": "Built-in example inputs: COP 89,900 price, 28,000 product cost, 12,000 shipping, 18,000 CPA, 20% not dispatched and 8% returns. Output is a calculation under these assumptions, not observed profit."
+  },
+  {
+    "file": "assets/raptor-system-2026-11-07.png",
+    "title": "Public system guide",
+    "captured_at_utc": "2026-11-08T04:04:07Z",
+    "capture_date_timezone": "America/New_York",
+    "source_origin": "https://radar-q3oz.onrender.com",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "theme": "native light",
+    "language": "Spanish",
+    "sha256": "a87ca0382de4a4817c85385441a533ad7e688928d1fe7a2cf05dad73dc926773",
+    "original_pixels": true,
+    "context": "Actual public architecture page. Displayed aggregate figures belong to its published snapshot; this capture does not certify live source coverage or a collection cadence."
+  }
+]

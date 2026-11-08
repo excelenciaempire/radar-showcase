@@ -1,4 +1,106 @@
-# Original interface screenshot
+# Original interface captures
+
+## Current gallery: November 7, 2026
+
+Eleven original PNG captures from the deployed application at [radar-q3oz.onrender.com](https://radar-q3oz.onrender.com/), including its public landing and system guide. Capture times fall on November 8 in UTC and November 7 in America/New_York. The deployed headline revision is `0443d5af9fd8ea8429c8f8cdcb59bfd3df957ab6`.
+
+Native light mode was selected through the application theme control. The interface has no English language selector; its Spanish labels are preserved. No DOM translation, CSS restyling, image retouching, compositing or generated application imagery was used. The published files are byte-identical to the original captures.
+
+The landing's illustrative platform tab is separate from the authenticated application; the gallery's internal screens were captured from authenticated routes. Supplier contact details, credentials, databases and application source are excluded from the public assets.
+
+[Machine-readable capture records and SHA-256 hashes](captures-2026-11-07.json) · [Current feature tour](FEATURES.md)
+
+### Public landing
+
+[raptor-landing-2026-11-07.png](assets/raptor-landing-2026-11-07.png) · 1440 × 1000 · 2026-11-08T03:58:34Z
+
+Public entry point with the new headline; native Spanish/light.
+
+SHA-256: `d85b54208a210c66d5793a86f6cf261d9d05ded7f915e52832a4dbf434e4a1c3`
+
+### Mobile landing
+
+[raptor-landing-mobile-2026-11-07.png](assets/raptor-landing-mobile-2026-11-07.png) · 390 × 844 · 2026-11-08T03:58:38Z
+
+Same production landing at 390 px; native Spanish/light.
+
+SHA-256: `196f71757f32ab659fe726dfe62176bf898a61c1a71476a0de5ef3d7724d40d9`
+
+### Product workspace
+
+[raptor-workspace-2026-11-07.png](assets/raptor-workspace-2026-11-07.png) · 1440 × 1000 · 2026-11-08T03:59:15Z
+
+Existing saved pet-brush investigation. The header retains a filtered catalog count, separate from the full library total.
+
+SHA-256: `a6d4c6ebfdb2f6ff1ec7c710e2fd0a916a0f295cef7c412c307ffe144731312a`
+
+### Product catalog
+
+[raptor-catalog-reviewed-2026-11-07.png](assets/raptor-catalog-reviewed-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:02:51Z
+
+Native Cabello category filter, 9,398 observed listings. Several original thumbnails are unavailable; they are not replaced. Stock is explicitly marked as lacking a recent observation.
+
+SHA-256: `cf5856e883656e60b24762cc3630c08a96512fb855679c3067eaf8d0f425c3ec`
+
+### Category navigation
+
+[raptor-category-picker-2026-11-07.png](assets/raptor-category-picker-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:02:54Z
+
+Native category picker open over the same filtered catalog; counts reflect the captured classification snapshot.
+
+SHA-256: `98a5ee5fdb87f51050d6facb20fc0f2d290e7da9059c54531c75b8721ffbda13`
+
+### Saved investigation
+
+[raptor-investigation-2026-11-07.png](assets/raptor-investigation-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:04:29Z
+
+The existing pet-brush record, saved September 28, rendered in the current interface. Identity validation and complete economics are still pending; the evidence retains its original dates.
+
+SHA-256: `2cd4e6f64c540209c344156c4116e51c7ac6148cd4446c652fca9a148012d202`
+
+### Mobile investigation
+
+[raptor-investigation-mobile-2026-11-07.png](assets/raptor-investigation-mobile-2026-11-07.png) · 390 × 844 · 2026-11-08T04:04:32Z
+
+Same saved investigation at 390 px; no new research or test results were created.
+
+SHA-256: `fa667d71865dcc5cbfcf38b6bb0200ab69303f784c686cbfe020a5a89062a993`
+
+### Competitive research
+
+[raptor-ad-evidence-2026-11-07.png](assets/raptor-ad-evidence-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:06:26Z
+
+Read-only pet-brush overview with historical advertising activity and observed landing-page references. Automatic opportunity text is a research hypothesis, not verified product efficacy or sales.
+
+SHA-256: `ea852205ef145d43a2e54c17d29e35c0552cbc2fc45715b1f0c9f09748d505de`
+
+### Landing-page evidence
+
+[raptor-ad-cards-2026-11-07.png](assets/raptor-ad-cards-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:06:51Z
+
+Observed public offers, source links and capture dates in the product advertising workspace. Missing prices remain unidentified; advertised claims are not validated by this screenshot.
+
+SHA-256: `90d395c798c4ed4569f64442acda24cd6c3e87159096ea3dec0f59cf7db53f94`
+
+### COD calculator
+
+[raptor-economics-2026-11-07.png](assets/raptor-economics-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:01:46Z
+
+Built-in example inputs: COP 89,900 price, 28,000 product cost, 12,000 shipping, 18,000 CPA, 20% not dispatched and 8% returns. Output is a calculation under these assumptions, not observed profit.
+
+SHA-256: `7d1f936e6bca9a0f531120ce2e1df8b0bab0d41ce268d17236ef0f930a4e454a`
+
+### Public system guide
+
+[raptor-system-2026-11-07.png](assets/raptor-system-2026-11-07.png) · 1440 × 1000 · 2026-11-08T04:04:07Z
+
+Actual public architecture page. Displayed aggregate figures belong to its published snapshot; this capture does not certify live source coverage or a collection cadence.
+
+SHA-256: `a87ca0382de4a4817c85385441a533ad7e688928d1fe7a2cf05dad73dc926773`
+
+---
+
+## Archived October 7 interface
 
 This is the original internal-workspace PNG preserved from the Radar design verification on 2026-10-07. The accompanying verification report identifies it as the actual application served locally in read-only mode, with files checked against Render and authenticated production APIs. It is distinct from the design concepts in that report.
 

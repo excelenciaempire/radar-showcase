@@ -1,45 +1,40 @@
-# Radar
+# Raptor
 
-**Catalog and supplier research for cash-on-delivery ecommerce.**
+**Market intelligence for ecommerce: explore products, investigate competitors and model cash-on-delivery economics.**
 
-[Feature tour](FEATURES.md) · [System map](SYSTEM.md) · [Engineering](ENGINEERING.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
+[Live landing](https://radar-q3oz.onrender.com/) · [Feature tour](FEATURES.md) · [System map](SYSTEM.md) · [Engineering](ENGINEERING.md)
 
-Radar combines catalog collection, product/supplier research and read-only assistant access in one product. Its workspace brings listings, dated stock observations, advertising references and cash-on-delivery assumptions together.
+Raptor, previously Radar, connects a supplier catalog, timestamped inventory observations, advertising references and product investigations in one application. Collection, matching and assistant access are components of the same product.
 
-![Radar internal workspace](assets/workspace-original-2026-10-07.png)
+![Raptor product catalog in native light mode](assets/raptor-catalog-reviewed-2026-11-07.png)
 
-*Original application capture, October 7, 2026. The Spanish interface and catalog figures reflect that date. [Capture details](SCREENSHOTS.md).*
+*Current application, November 7, 2026; native Spanish/light interface. Counts and stock describe observations, not confirmed sales. [Capture details](SCREENSHOTS.md).*
 
-## Inside the application
+## From the landing to the workspace
 
-### Offer and supplier evidence
+The public landing introduces the product; the authenticated application contains the catalog, research and calculation tools.
 
-Keep competitor offers, supplier candidates and decision sections in the same investigation.
+![Raptor public landing](assets/raptor-landing-2026-11-07.png)
 
-![Offer and supplier evidence](assets/offer-comparison-2026-10-07.png)
+## What I built
 
-*October 7, 2026 application QA; Spanish/dark. The visible offer section has no normalized price yet.*
+| Area | Work |
+| --- | --- |
+| Explore | Product catalog, category navigation, filters and supplier information |
+| Investigate | Saved product investigations, advertising references and supplier-match review |
+| Calculate | Cash-on-delivery assumptions, delivery/return costs and advertising break-even calculations |
+| Connect | Catalog collection, persistent observations and authenticated read-only access for AI assistants |
 
-### COD economics and test planning
+[See the current screens and implementation boundaries](FEATURES.md).
 
-Review the economics/evidence stage and define a test once the required conditions are known.
+## Engineering approach
 
-<img src="assets/economics-test-2026-10-07.png" alt="COD economics and test planning" width="360">
+A similar title does not prove two listings are the same product. Supplier matches remain proposals until reviewed; stock changes remain observations. Missing costs stay unknown. [Read the technical decisions](ENGINEERING.md).
 
-*October 7, 2026 application QA; Spanish/dark. The investigation is pending and has zero connected experiment results.*
+**JavaScript / TypeScript · React · Node.js · Express · SQLite · Python · MCP · S3-compatible storage**
 
-[Explore all five views, including the ad library and mobile investigation](FEATURES.md).
+**All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, debug failures, test behavior and take responsibility for technical decisions.
 
-## My contribution
+Application source, databases and private research remain private. This repository contains the public case study and original interface captures. It claims no matching-accuracy, revenue or profitability results.
 
-I develop the catalog-research interface, supplier workflows, matching review, persistent investigations and cash-on-delivery analysis. The surrounding system includes catalog collection and an assistant connector.
-
-## A technical decision
-
-Similar titles can describe different variants or bundles. Radar treats supplier matches as proposals for review and keeps observed stock separate from inferred sales. Missing costs remain unknown in the economics calculation. [Read the decisions](ENGINEERING.md).
-
-**JavaScript · Node.js · Express · SQLite · Python · MCP · S3-compatible object storage**
-
-**All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, test behavior and take responsibility for technical decisions.
-
-This case contains documentation and archived application captures. Source, databases and private research stay private. It publishes no matching-accuracy or commercial-performance metrics.
+[Juan Diego Rios](https://github.com/excelenciaempire)

@@ -1,69 +1,72 @@
-# Feature tour
+# Raptor feature tour
 
-Collection, research, supplier review, economics and assistant access belong to one Radar product.
+[Overview](README.md) · [System](SYSTEM.md) · [Capture provenance](SCREENSHOTS.md)
 
-[Overview](README.md) · [Capture provenance](SCREENSHOTS.md)
+These are original production captures from November 7, 2026 (America/New_York), taken after the headline deployment. The application uses its native light theme and Spanish labels. Some internal document titles still use Radar. All modules belong to one product.
 
-[Research workspace](#research-workspace) · [Investigation and decisions](#investigation-and-decisions) · [Economics](#economics)
+## 1. Landing and product entry
 
-## Research workspace
+The public landing introduces Raptor. The authenticated start screen opens product research and the catalog, advertising and supplier areas.
 
-### Product and supplier workspace
+![Raptor public landing](assets/raptor-landing-2026-11-07.png)
 
-Start a product investigation and navigate the product, advertising and supplier libraries.
+<img src="assets/raptor-landing-mobile-2026-11-07.png" alt="Raptor landing on mobile" width="360">
 
-![Product and supplier workspace](assets/workspace-original-2026-10-07.png)
+![Raptor authenticated workspace](assets/raptor-workspace-2026-11-07.png)
 
-*October 7, 2026 archived application; Spanish/dark. Catalog counts belong to that date.*
+The saved pet-brush record is an existing investigation. The header count reflects a retained catalog filter; the library card shows the full catalog snapshot.
 
+## 2. Catalog and category navigation
 
-### Advertising library
+Browse product cards, apply category filters and keep price, inventory, advertising and supplier controls together. The captured filter is **Cabello** (hair care), with 9,398 observed listings.
 
-Browse advertising references alongside the surrounding catalog-research tools.
+![Filtered product catalog in light mode](assets/raptor-catalog-reviewed-2026-11-07.png)
 
-![Advertising library](assets/ads-library-2026-10-07.png)
+![Native category picker](assets/raptor-category-picker-2026-11-07.png)
 
-*October 7, 2026 archived application; Spanish/dark. This is a library view, not campaign performance.*
+The interface marks stock without a recent observation. Unavailable source thumbnails remain visible as empty slots; no replacement product images were generated.
 
+## 3. Investigations, competitors and landing evidence
 
-## Investigation and decisions
+A saved investigation separates observed market information, product identity, offers, supply and economics. The captured record still requires validation and has incomplete cost inputs.
 
-### Saved investigation on mobile
+![Saved product investigation and validation states](assets/raptor-investigation-2026-11-07.png)
 
-Review the saved product brief and the decision conditions from a compact screen.
+<img src="assets/raptor-investigation-mobile-2026-11-07.png" alt="Saved investigation on mobile" width="360">
 
-<img src="assets/investigation-mobile-2026-10-07.png" alt="Saved investigation on mobile" width="360">
+![Historical competitor and creative overview](assets/raptor-ad-evidence-2026-11-07.png)
 
-*October 7, 2026 application QA; Spanish/dark with a named QA product investigation.*
+![Observed landing-page offers and source references](assets/raptor-ad-cards-2026-11-07.png)
 
+Advertising activity, automatic opportunity text and published offer claims are research inputs. They do not establish confirmed product equivalence, efficacy, current stock, seller revenue or profitable campaigns. Missing prices stay unidentified. Historical evidence retains its dates.
 
-### Offer and supplier evidence
+## 4. Cash-on-delivery calculations
 
-Keep competitor offers, supplier candidates and decision sections in the same investigation.
+Model selling price, product cost, shipping, advertising cost, orders not dispatched and returns. The screen below uses the calculator's built-in example values.
 
-![Offer and supplier evidence](assets/offer-comparison-2026-10-07.png)
+![Cash-on-delivery calculator with example assumptions](assets/raptor-economics-2026-11-07.png)
 
-*October 7, 2026 application QA; Spanish/dark. The visible offer section has no normalized price yet.*
+The green profitability state is a calculated scenario, not an observed business result. Shipping quotes and real experiment results were not created for this gallery.
 
+## 5. Public system guide and supporting components
 
-## Economics
+The public guide explains the relationship between collection, advertising evidence, matching, investigations and decisions.
 
-### COD economics and test planning
+![Raptor public system guide](assets/raptor-system-2026-11-07.png)
 
-Review the economics/evidence stage and define a test once the required conditions are known.
+Collection, scheduled updates and authenticated read-only assistant access are documented in [System](SYSTEM.md). The screenshots do not certify uninterrupted operation, matching accuracy or a live external MCP-client session.
 
-<img src="assets/economics-test-2026-10-07.png" alt="COD economics and test planning" width="360">
+<details>
+<summary>Earlier interface: October 7, 2026</summary>
 
-*October 7, 2026 application QA; Spanish/dark. The investigation is pending and has zero connected experiment results.*
+These original Spanish/dark captures document the older interface. They are retained for history and are not presented as the current release.
 
+- [Original workspace](assets/workspace-original-2026-10-07.png)
+- [Advertising library](assets/ads-library-2026-10-07.png)
+- [Mobile investigation](assets/investigation-mobile-2026-10-07.png)
+- [Offer and supplier review](assets/offer-comparison-2026-10-07.png)
+- [Pending economics/test view](assets/economics-test-2026-10-07.png)
 
-## Coverage and implementation notes
-
-| Area | Coverage boundary |
-| --- | --- |
-| Catalog collection, stock/price observation history and scheduled updates | These are backend components in [System](SYSTEM.md); the screenshots do not show a new collection run or uptime result. |
-| Supplier matches and product variants | The investigation workflow is pictured; candidate matches still require review. |
-| COD calculations and experiments | The captured test is pending. No observed sales, profit or winning experiment is claimed. |
-| Read-only assistant connector | Documented in [System](SYSTEM.md); no live external-client tool session is pictured. |
+</details>
 
 [Back to overview](README.md)
